@@ -1,20 +1,17 @@
-<h1 align="center">Hi there, I'm Peter Akacha 👋</h1>
-
-<h3 align="center">Full-Stack Developer | Python, JavaScript & AI Solutions</h3>
-<p align="center">📍 Based in Lagos, Nigeria (GMT+1)</p>
+<h1 align="center">Hi 👋, I'm Peter Akacha</h1>
+<h3 align="center">Full-Stack Developer & AI Solutions | JavaScript | Python | HTML | CSS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;JavaScript+%26+Python+Enthusiast;AI+Solutions+Builder;Available+for+Freelance+on+Upwork" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;JavaScript+Enthusiast;Python+Developer;AI+Solutions+Builder;Open+for+Freelance+Work" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a passionate developer who loves turning ideas into functional applications. Currently focusing on web development, automation scripts, and AI-powered tools. I'm actively looking for **freelance opportunities on Upwork** and other platforms.
-
-- 🔭 Currently building **web apps and AI-powered solutions**
-- 💼 **Open for freelance work** — web development, JavaScript apps, Python scripts & more
+- 🔭 I'm currently building **web apps and AI-powered solutions**
+- 💼 Open for **freelance work** — web development, JavaScript apps, Python scripts & more → [Hire me on Upwork](https://www.upwork.com/freelancers/~0199109ff8431b1f83)
+- 🌍 Based in **Nigeria**
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Full-Stack Development**
 - ⚡ Fun fact: I turn ideas into clean, responsive, and functional web experiences
 
@@ -30,7 +27,6 @@ I'm a passionate developer who loves turning ideas into functional applications.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
@@ -40,7 +36,8 @@ I'm a passionate developer who loves turning ideas into functional applications.
 | Project | Description | Tech | Live Demo |
 |---|---|---|---|
 | 🗒️ **TaskFlow - Todo App** | Clean & responsive task manager with localStorage | HTML, CSS, JS | [View Live](https://peter-akacha.github.io/todo-app) |
-| 🚀 **More coming soon...** | Currently building new projects | — | — |
+
+> More projects coming soon...
 
 ---
 
@@ -51,20 +48,19 @@ I'm a passionate developer who loves turning ideas into functional applications.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Akacha&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-Akacha&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
-### 🤝 Hire Me / Get In Touch
+### 🤝 Let's Work Together
 
 <p align="left">
-  <a href="https://www.upwork.com/freelancers/~yourprofile">
-    <img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  <a href="mailto:sirp2027@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.upwork.com/freelancers/~0199109ff8431b1f83">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akacha-peter-281aa9414/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Peter-Akacha">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -73,6 +69,24 @@ I'm a passionate developer who loves turning ideas into functional applications.
 
 ---
 
+## 📬 Get In Touch
+
+If you have a project in mind, want to collaborate, or just want to chat about AI and web development — feel free to reach out!
+
+<p align="left">
+  <a href="https://www.upwork.com/freelancers/~0199109ff8431b1f83">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akacha-peter-281aa9414/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sirp2027@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Peter-Akacha&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Peter-Akacha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
