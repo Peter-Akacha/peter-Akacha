@@ -38,9 +38,8 @@ I enjoy solving real-world problems by creating clean, scalable, and efficient s
 Building high-quality web applications and continuously improving my skills in Full-Stack Development and AI-powered tools.
 
 ---
-
 ### 📫 Contact Me
-- **Email**: `ADD_YOUR_EMAIL_HERE` 
-- **Location**: Ibadan, Nigeria 🇳🇬 
-- **Upwork**: `ADD_YOUR_UPWORK_LINK_HERE`
+- **Email**: `sirp2027@gmail.com` 
+- **Location**: Lagos, Nigeria 🇳🇬 
+- **Upwork**: [Hire me on Upwork](https://www.upwork.com/freelancers/~0199109ff8431b1f83) 
 - **GitHub**: https://github.com/Peter-Akacha
